@@ -1,0 +1,15 @@
+header {
+  height: 50px;
+}
+
+.main-navigation {
+  background-color: blueviolet;
+}
+
+.logo {
+  font-size: 10px;
+}
+
+a {
+  color: white;
+}
